@@ -1,0 +1,7 @@
+{
+  "challenge_id": "neurips-2021-minerl-diamond-competition",
+  "authors": ["agnprz"],
+  "tags": "research",
+  "description": "A baseline solution using behavioural cloning",
+  "gpu": true
+}
