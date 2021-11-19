@@ -1,19 +1,6 @@
-# NeurIPS 2021: MineRL Competition. Research track baseline submission kit.
+# NeurIPS 2021: MineRL Competition. Research track.
 
-[![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/BT9uegr)
-
-This repository contains the baseline solution for the research track of NeurIPS MineRL 2021 competition,
-placed inside the submission kit. This means it is ready for a submit with few changes!
-
-**Other Resources**
-- [Repository for the baseline solution](https://github.com/KarolisRam/MineRL2021-Research-baselines) - Original baseline solution in a cleaner format. **Go here if you want to study the code without overhead from the competition kit!**
-- [Submission template](https://github.com/minerllabs/competition_submission_template/) - The original submission template with a random agent. **Go here if you want full details on the submission process**.
-
-# How to submit.
-
-1. Clone this repository.
-2. Update `aicrowd.json` file with your list of authors.
-3. Follow the instructions [here](https://github.com/minerllabs/competition_submission_template/#how-to-submit) to submit to AICrowd.
+This repository contains the solution for the research track of NeurIPS MineRL 2021 competition.
 
 # Contents
 
